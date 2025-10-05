@@ -1,2 +1,6 @@
-# web-335
-Bellevue University - WEB 335
+# WEB 335 Node.js
+
+## Contributors
+
+- Instructor: Richard Krasso
+- Student: Chris Newell

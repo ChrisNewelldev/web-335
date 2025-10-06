@@ -1,0 +1,33 @@
+{
+  "viewer": {
+    "_id": "v001",
+    "firstName": "Chris",
+    "lastName": "Newell"
+  },
+  "movies": [
+    {
+      "_id": "m100",
+      "movieName": "Inception",
+      "genre": "Sci-Fi"
+    },
+    {
+      "_id": "m200",
+      "movieName": "The Dark Knight",
+      "genre": "Action"
+    }
+  ],
+  "ratings": [
+    {
+      "_id": "r500",
+      "viewerId": "v001",
+      "movieId": "m100",
+      "ratingScore": 5
+    },
+    {
+      "_id": "r501",
+      "viewerId": "v001",
+      "movieId": "m200",
+      "ratingScore": 4
+    }
+  ]
+}

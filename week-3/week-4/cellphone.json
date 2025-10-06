@@ -1,0 +1,39 @@
+{
+  "user": {
+    "_id": "u001",
+    "firstName": "Chris",
+    "lastName": "Newell"
+  },
+  "devices": [
+    {
+      "_id": "d100",
+      "deviceName": "iPhone 15",
+      "deviceType": "phone",
+      "charger_id": "c10"
+    },
+    {
+      "_id": "d200",
+      "deviceName": "iPad Air",
+      "deviceType": "tablet",
+      "charger_id": "c10"
+    },
+    {
+      "_id": "d300",
+      "deviceName": "Galaxy S24",
+      "deviceType": "phone",
+      "charger_id": "c20"
+    }
+  ],
+  "chargers": [
+    {
+      "_id": "c10",
+      "chargerType": "USB-C 20W",
+      "voltage": 5
+    },
+    {
+      "_id": "c20",
+      "chargerType": "USB-C 45W",
+      "voltage": 20
+    }
+  ]
+}

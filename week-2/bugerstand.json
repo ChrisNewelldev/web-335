@@ -1,0 +1,24 @@
+{
+  "customer": {
+    "_id": "c001",
+    "firstName": "Ava",
+    "lastName": "Rivera",
+    "burgers": [
+      {
+        "_id": "b101",
+        "burgerName": "Classic Cheeseburger",
+        "price": 7.99
+      },
+      {
+        "_id": "b102",
+        "burgerName": "BBQ Bacon Burger",
+        "price": 9.49
+      },
+      {
+        "_id": "b103",
+        "burgerName": "Veggie Burger",
+        "price": 8.29
+      }
+    ]
+  }
+}
